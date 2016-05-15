@@ -1,0 +1,10 @@
+D:\Projects\cir-parent\cir-rest\src\main\java\com\cir\services\rest\v1\dao\impl\UserDaoImpl.java
+D:\Projects\cir-parent\cir-rest\src\main\java\com\cir\services\rest\v1\db\PropDBReader.java
+D:\Projects\cir-parent\cir-rest\src\main\java\com\cir\services\rest\v1\service\api\UserService.java
+D:\Projects\cir-parent\cir-rest\src\main\java\com\cir\services\rest\v1\resource\CIRAppResourceConfig.java
+D:\Projects\cir-parent\cir-rest\src\main\java\com\cir\services\rest\v1\dao\api\UserDao.java
+D:\Projects\cir-parent\cir-rest\src\main\java\com\cir\services\rest\v1\resource\UserResource.java
+D:\Projects\cir-parent\cir-rest\src\main\java\com\cir\services\rest\v1\dao\impl\UserMapper.java
+D:\Projects\cir-parent\cir-rest\src\main\java\com\cir\services\rest\v1\model\User.java
+D:\Projects\cir-parent\cir-rest\src\main\java\com\cir\services\rest\v1\service\impl\UserServiceImpl.java
+D:\Projects\cir-parent\cir-rest\src\main\java\com\cir\services\rest\v1\db\AbstractBaseDAO.java

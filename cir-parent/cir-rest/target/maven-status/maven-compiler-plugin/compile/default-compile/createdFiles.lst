@@ -1,0 +1,10 @@
+com\cir\services\rest\v1\dao\impl\UserDaoImpl.class
+com\cir\services\rest\v1\dao\impl\UserMapper.class
+com\cir\services\rest\v1\dao\api\UserDao.class
+com\cir\services\rest\v1\service\impl\UserServiceImpl.class
+com\cir\services\rest\v1\service\api\UserService.class
+com\cir\services\rest\v1\resource\CIRAppResourceConfig.class
+com\cir\services\rest\v1\db\AbstractBaseDAO.class
+com\cir\services\rest\v1\resource\UserResource.class
+com\cir\services\rest\v1\model\User.class
+com\cir\services\rest\v1\db\PropDBReader.class
